@@ -7,3 +7,4 @@ Owner of tweetifylol.com, qtDzcript and The Zombia Experts Team.
 # Owner of Tweetify (a Tweetor clone. used to be accessable at tweetifylol.com but i took down tweetify now and it is no longer accessable)
 
 # black lives matter
+discord: qtdzzz
